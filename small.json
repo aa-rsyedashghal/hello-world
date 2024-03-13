@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        
+                        [
+                            51.46095904652444,
+                            25.248324266608822
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "PWA_BUSINESS_CODE": "BA-AW-PG01-C0661"
+            }
+        }
+    ]
+}
